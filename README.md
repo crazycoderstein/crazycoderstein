@@ -1,6 +1,6 @@
 # Hi,there! <img src='https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png' width="40px"/>
 
-![](https://github.com/wannacfuture/wannacfuture/blob/main/header.png?raw=true)
+![](https://github.com/crazycoderstein/crazycoderstein/blob/main/header.png?raw=true)
 
 ## About me
 
@@ -20,7 +20,7 @@
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
 	</a>
 	<a href="https://github.com/mastercodercat">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=wannacfuture&hide=prs&show_icons=true&count_private=true&include_all_commits=true&line_height=29&theme=dracula" alt="wannacfuture's Github Stats" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazycoderstein&hide=prs&show_icons=true&count_private=true&include_all_commits=true&line_height=29&theme=dracula" alt="crazycoderstein's Github Stats" />
 	</a>
 </p>
 
