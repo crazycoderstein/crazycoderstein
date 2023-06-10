@@ -33,7 +33,7 @@ And when I'm not writing code, I write and produce music in my spare time, creat
 </p>
 
 <p align="center">
-	<img src="https://visitor-badge.glitch.me/badge?page_id=mastercodercat.mastercodercat" alt="visitor count"/>
+	<img src="https://visitor-badge.glitch.me/badge?page_id=crazycoderstein.crazycoderstein" alt="visitor count"/>
 </p>
 
 [0]: https://aave.com
