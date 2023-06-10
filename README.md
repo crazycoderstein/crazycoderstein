@@ -25,11 +25,6 @@ And when I'm not writing code, I write and produce music in my spare time, creat
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/mastercodercat">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=mastercodercat" />
-	</a>
-</p>
-<p align="center">
-	<a href="https://github.com/mastercodercat">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
 	</a>
 	<a href="https://github.com/mastercodercat">
