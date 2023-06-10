@@ -36,3 +36,13 @@ And when I'm not writing code, I write and produce music in my spare time, creat
 	<img src="https://visitor-badge.glitch.me/badge?page_id=mastercodercat.mastercodercat" alt="visitor count"/>
 </p>
 
+[0]: https://aave.com
+[1]: https://twitter.com/VitalikButerin/status/1558079335067799552
+[2]: https://arbor.audio
+[3]: https://zku.one
+[4]: https://ipfs.io/ipfs/QmSMT86QpftE3azkeMagsyJ7ynVZY493VP6XM5eo2scttv/A%20Day%20In%20The%20Life.mp3
+[5]: https://ipfs.io/ipfs/QmYxdgasjwXCnbHxaQPZresiiRiURJW3w3tyebNKpdoRJN/Living%20The%20Dream.mp3
+[6]: https://vitalik.ca
+[7]: https://github.com/vbuterin/blogmaker/pull/11
+[8]: https://github.com/vbuterin/blog/pull/40
+[9]: https://www.secure3.io/
