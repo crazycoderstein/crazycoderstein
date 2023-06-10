@@ -32,6 +32,10 @@ And when I'm not writing code, I write and produce music in my spare time, creat
 	</a>
 </p>
 
+<p align="center">
+	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/wannacfuture/count.svg" alt="wannacfuture's Github visitor Counts" />
+</p>
+
 [0]: https://aave.com
 [1]: https://twitter.com/VitalikButerin/status/1558079335067799552
 [2]: https://arbor.audio
