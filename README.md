@@ -41,5 +41,3 @@ And when I'm not writing code, I write and produce music in my spare time, creat
 	<img src="https://visitor-badge.glitch.me/badge?page_id=mastercodercat.mastercodercat" alt="visitor count"/>
 </p>
 
-**_I ❤️love you !== I only ❤️love you_**
-
