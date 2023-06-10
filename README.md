@@ -4,10 +4,23 @@
 
 ## About me
 
-#### Experienced fullstack engineer with 8 years of web development experience.
-#### Always love challenges and solving complicated technical issues.
-#### Potentially put emphasis on team collaboration and cooperation.
-#### Continuously keep up to date with modern technologies frameworks and standards.
+I'm a fullstack developer working in Web3. :rocket:
+
+I previously was working full-time as a core contributor to the [Aave Protocol][0], mainly on the UI. 👻
+
+I am also currently contributing to a few other projects, including one I have co-founded, the [Arbor Protocol][2]. 🌳
+
+I am also gaining knowledge and experience in smart contract auditing by working as an auditor with [Secure3][9].
+
+I really enjoy working on open-source projects and within the Ethereum community.
+
+Hey, I've even implemented the dark mode on [Vitalik's blog][6] - just check out this [Tweet][1] and the PRs [one][7] & [two][8]! 💪
+
+Outside of DeFi, I'm really interested in a couple areas:
+- Music NFTs: Building out the Arbor Protocol, a generative music-making NFT platform with royalties 🎼
+- ZKPs: Researching and working with zero-knowledge technologies. I have recently graduated from [Zero-Knowlege University][3]. 🔐
+
+And when I'm not writing code, I write and produce music in my spare time, creating sounds like [this][4] and [this][5]. 🎵
 
 ## My GitHub Stats 📊
 <p align="center">
