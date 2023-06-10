@@ -33,7 +33,7 @@ And when I'm not writing code, I write and produce music in my spare time, creat
 </p>
 
 <p align="center">
-	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/crazycoderstein/count.svg" alt="GG-7's Github visitor Counts" />
+	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/wannacfuture/count.svg" alt="GG-7's Github visitor Counts" />
 </p>
 
 [0]: https://aave.com
