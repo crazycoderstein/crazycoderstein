@@ -1,11 +1,10 @@
-# Sr. Full Stack Web/Web3 Developer with latest technologies
+# Sr. Full Stack Developer with trend technologies
 
-🔭 A full stack web/web3 developer with 7 years experience in web development and 3 years experience in web3/blockchain development, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and blockchain.
+🔭 A full stack developer with 7 years experience in web development and 3 years experience in web3/blockchain development, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and blockchain.
 
 ⚡ I have participated in architecting, designing, developing and deploying many full stack web applications like [this](https://brevanhoward.com), decentralized applications(DAO, DEX, Defi, NFT) like [this](https://www.klimadao.finance) and blockchain networks like [this](https://kira.network). Here are my main skills/experiences in web/web3.
 
 - HTML/CSS, JavaScript, TypeScript, PHP, Python, Ruby, Solidity, Golang, Rust
-- Hardhat, Truffle
 - Cosmos SDK, Cosmwasm, Solana
 - Cadence, Flow
 - React(Redux, Mobx, Context), Next.js, Blitz.js, Gatsby
